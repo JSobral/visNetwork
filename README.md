@@ -1,6 +1,7 @@
 # visNetwork
 R package, using vis.js library for network visualization
 
+## visNetwork is now update on DataKnowledge github. https://github.com/dataknowledge/visNetwork
 ```` 
 devtools::install_github("bthieurmel/visNetwork")
 
